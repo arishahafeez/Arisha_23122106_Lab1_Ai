@@ -66,7 +66,7 @@ else:
 
 total_price = base_price * num_passengers * (1 - discount)
 print(f"Total price for {num_passengers} passengers to {destination}: PKR {total_price}")
-
+```
 
 ---
 
